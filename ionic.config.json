@@ -1,0 +1,7 @@
+{
+  "name": "AppMculture",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
